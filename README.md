@@ -1,39 +1,55 @@
-# Swahili Postural Phonetics Corpus 🌍🗣️
-
-An experimental study exploring the impact of body posture on vowel formant production in Swahili. This project analyzes how physical orientation (Standing, Sitting, and Supine) affects the geometry of the vocal tract and the resulting acoustic output.
+# Postural Effects on Swahili Vowel Articulation 🌍🗣️
+### *An Acoustic Analysis of Formant Variability Across Body Positions*
 
 ## 📌 Project Overview
-The study investigates whether the human speech motor system compensates for postural changes to maintain acoustic constancy. By comparing recordings in three positions, we track shifts in $F_1$, $F_2$, and $F_3$ formants caused by the passive repositioning of the tongue and jaw.
+This study investigates how body posture (Standing, Sitting, and Supine) influences the acoustic properties of the Swahili five-vowel system (/a/, /e/, /i/, /o/, /u/). By analyzing $F_1$, $F_2$, and $F_3$ formants, we examine how changes in physical orientation lead to the passive displacement of articulators (tongue and jaw) and whether the speech motor system successfully compensates for these shifts to maintain phonetic targets.
 
 ## 🛠️ Technology Stack
 * **Language:** Python 3.14+
 * **Acoustic Analysis:** [Praat-Parselmouth](https://github.com/YannickJadoul/Parselmouth) (LPC Burg Method)
 * **Annotation Parsing:** [TextGrid](https://github.com/kylebgorman/textgrid)
 * **Statistics:** NumPy, SciPy (Welch's & Paired Student's t-tests)
-* **Environment Management:** [uv](https://github.com/astral-sh/uv)
+* **Workflow Management:** [uv](https://github.com/astral-sh/uv)
+
+## 📂 Directory Structure
+```text
+.
+├── data/
+│   ├── audio/        # 30 WAV samples (10 per posture)
+│   ├── annotations/  # Manual TextGrid alignments (Tier 1: Vowels)
+│   └── text/         # Recording script (10 Swahili sentences)
+├── src/
+│   ├── analysis/     # Extraction, Cleaning, and Statistics scripts
+│   └── util/         # Audio duration and metadata utilities
+├── analysis/         # Processed JSON data and .txt statistical reports
+└── README.md
+```
 
 ## 🧪 Methodology
 
-### 1. Data Collection & Preprocessing
-* **Corpus:** 10 Swahili sentences selected for balanced vowel distribution.
-* **Conditions:** High-fidelity audio captured in **Standing**, **Sitting**, and **Supine** (lying down) positions.
-* **Control:** Durations strictly monitored (3.60s to 5.92s) to ensure consistent speech rate across all trials.
+### 1. Corpus & Data Collection
+* **Material:** 10 phonetically balanced Swahili sentences.
+* **Conditions:** Audio captured in three controlled postures: **Standing**, **Sitting**, and **Supine**.
+* **Consistency:** Total durations are verified (range: 3.60s – 5.92s) to ensure a stable speech rate across all conditions.
 
-### 2. Formant Extraction & Data Cleaning
-* **Physiological Bounds:** Filtering for plausible human ranges ($300 < F_1 < 800$, etc.).
-* **Statistical $2\sigma$ Filter:** Tokens beyond two standard deviations from the vowel mean are discarded to remove tracking errors.
-* **Token Alignment:** Unique `file_id` tracking allows for high-precision paired t-tests between specific vowel occurrences.
+### 2. Formant Extraction & Data Integrity
+* **Automated Tracking:** Mid-point formant extraction using the Burg algorithm.
+* **Physiological Filtering:** Removal of tracking artifacts through frequency boundary constraints.
+* **Statistical Cleaning ($2\sigma$):** Tokens falling outside two standard deviations from the mean are excluded to ensure a robust representative sample.
+* **Token ID Persistence:** Unique `file_id` tagging is maintained through the pipeline to allow for high-precision paired comparisons.
 
-### 3. Statistical Analysis
-* **Paired Student’s t-test:** Used to compare identical tokens across postures, isolating the effect of orientation on the individual speaker.
-* **Welch’s t-test:** Global aggregate analysis to detect systematic shifts in the overall acoustic space.
+### 3. Statistical Framework
+* **Paired Student’s t-test:** Direct comparison of identical vowel tokens across postures to isolate the effect of orientation.
+* **Welch’s t-test:** Analysis of aggregated formant populations to identify global shifts in the vocal tract's acoustic space.
 
-## 📊 Results & Conclusions
-The analysis focuses on two primary articulatory shifts:
-* **Vertical Aperture ($F_1$):** Examining if lying down leads to a more open/closed vocal tract due to jaw repositioning.
-* **Tongue Retraction ($F_2$):** Measuring horizontal shifts as the tongue mass moves toward the pharynx in the supine position.
-* **Motor Control:** Evaluating the speaker's ability to maintain acoustic targets despite physical changes in orientation.
+## 📊 Results & Analysis
+The final reports evaluate:
+* **Vertical Aperture ($F_1$):** Variations in jaw opening and tongue height.
+* **Vowel Backness ($F_2$):** Shifts in tongue mass toward the pharyngeal wall (retraction).
+* **Resonator Length ($F_3$):** Global vocal tract stability across postures.
 
 ---
 **Researcher:** Salomon Metre  
 **Affiliation:** IDMC, Université de Lorraine (Nancy, France)
+
+---
