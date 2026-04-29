@@ -1,0 +1,16 @@
+GLOBAL POSTURAL SIGNIFICANCE (ALL VOWELS COMBINED)
+===============================================================================================
+Formant  | Comparison                | t-stat     | p-value    | Conclusion
+-----------------------------------------------------------------------------------------------
+F1       | Standing vs Sitting       | 0.776      | 0.4386     | not significant
+F1       | Standing vs Supine        | -0.058     | 0.9537     | not significant
+F1       | Sitting vs Supine         | -0.802     | 0.4234     | not significant
+-----------------------------------------------------------------------------------------------
+F2       | Standing vs Sitting       | -0.938     | 0.3491     | not significant
+F2       | Standing vs Supine        | -0.919     | 0.3592     | not significant
+F2       | Sitting vs Supine         | -0.012     | 0.9904     | not significant
+-----------------------------------------------------------------------------------------------
+F3       | Standing vs Sitting       | 0.888      | 0.3753     | not significant
+F3       | Standing vs Supine        | -0.38      | 0.7046     | not significant
+F3       | Sitting vs Supine         | -1.139     | 0.2561     | not significant
+-----------------------------------------------------------------------------------------------

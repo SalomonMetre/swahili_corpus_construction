@@ -1,0 +1,70 @@
+SWAHILI VOWEL POSTURAL ANALYSIS - PAIRED T-TEST RESULTS
+===================================================================================================================
+Vowel    | Comparison                | t-statistic  | p-value    | Conclusion
+-------------------------------------------------------------------------------------------------------------------
+
+--- ANALYSIS FOR F1 ---
+A        | Standing vs Sitting       | 0.807        | 0.423      | not significant
+A        | Standing vs Supine        | -1.346       | 0.184      | not significant
+A        | Sitting vs Supine         | -2.311       | 0.0247     | SIGNIFICANT
+-------------------------------------------------------------------------------------------------------------------
+E        | Standing vs Sitting       | 1.048        | 0.3218     | not significant
+E        | Standing vs Supine        | 0.033        | 0.9745     | not significant
+E        | Sitting vs Supine         | -2.232       | 0.0525     | not significant
+-------------------------------------------------------------------------------------------------------------------
+I        | Standing vs Sitting       | 1.512        | 0.1528     | not significant
+I        | Standing vs Supine        | 0.493        | 0.6285     | not significant
+I        | Sitting vs Supine         | -1.848       | 0.0858     | not significant
+-------------------------------------------------------------------------------------------------------------------
+O        | Standing vs Sitting       | -0.797       | 0.4558     | not significant
+O        | Standing vs Supine        | -0.514       | 0.6229     | not significant
+O        | Sitting vs Supine         | 0.085        | 0.9347     | not significant
+-------------------------------------------------------------------------------------------------------------------
+U        | Standing vs Sitting       | -1.054       | 0.3146     | not significant
+U        | Standing vs Supine        | -0.512       | 0.6184     | not significant
+U        | Sitting vs Supine         | 0.113        | 0.9122     | not significant
+-------------------------------------------------------------------------------------------------------------------
+
+--- ANALYSIS FOR F2 ---
+A        | Standing vs Sitting       | -3.943       | 0.0002     | SIGNIFICANT
+A        | Standing vs Supine        | -1.285       | 0.2044     | not significant
+A        | Sitting vs Supine         | 1.859        | 0.0685     | not significant
+-------------------------------------------------------------------------------------------------------------------
+E        | Standing vs Sitting       | 1.159        | 0.2765     | not significant
+E        | Standing vs Supine        | 0.226        | 0.826      | not significant
+E        | Sitting vs Supine         | -1.255       | 0.2411     | not significant
+-------------------------------------------------------------------------------------------------------------------
+I        | Standing vs Sitting       | -0.789       | 0.4432     | not significant
+I        | Standing vs Supine        | -1.465       | 0.1624     | not significant
+I        | Sitting vs Supine         | -0.626       | 0.5411     | not significant
+-------------------------------------------------------------------------------------------------------------------
+O        | Standing vs Sitting       | 0.866        | 0.4197     | not significant
+O        | Standing vs Supine        | 0.273        | 0.7929     | not significant
+O        | Sitting vs Supine         | -0.535       | 0.612      | not significant
+-------------------------------------------------------------------------------------------------------------------
+U        | Standing vs Sitting       | -0.093       | 0.9278     | not significant
+U        | Standing vs Supine        | -0.681       | 0.5101     | not significant
+U        | Sitting vs Supine         | -0.355       | 0.7296     | not significant
+-------------------------------------------------------------------------------------------------------------------
+
+--- ANALYSIS FOR F3 ---
+A        | Standing vs Sitting       | 0.426        | 0.6717     | not significant
+A        | Standing vs Supine        | 1.414        | 0.1631     | not significant
+A        | Sitting vs Supine         | 1.522        | 0.1339     | not significant
+-------------------------------------------------------------------------------------------------------------------
+E        | Standing vs Sitting       | 2.34         | 0.044      | SIGNIFICANT
+E        | Standing vs Supine        | -0.98        | 0.3527     | not significant
+E        | Sitting vs Supine         | -1.831       | 0.1003     | not significant
+-------------------------------------------------------------------------------------------------------------------
+I        | Standing vs Sitting       | 0.912        | 0.3774     | not significant
+I        | Standing vs Supine        | -1.424       | 0.1736     | not significant
+I        | Sitting vs Supine         | -2.279       | 0.0388     | SIGNIFICANT
+-------------------------------------------------------------------------------------------------------------------
+O        | Standing vs Sitting       | -2.595       | 0.0409     | SIGNIFICANT
+O        | Standing vs Supine        | -1.737       | 0.126      | not significant
+O        | Sitting vs Supine         | 0.3          | 0.7745     | not significant
+-------------------------------------------------------------------------------------------------------------------
+U        | Standing vs Sitting       | -1.507       | 0.1599     | not significant
+U        | Standing vs Supine        | -2.185       | 0.0514     | not significant
+U        | Sitting vs Supine         | -0.859       | 0.4105     | not significant
+-------------------------------------------------------------------------------------------------------------------
