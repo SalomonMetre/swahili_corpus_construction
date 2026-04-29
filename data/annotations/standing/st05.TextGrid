@@ -11,7 +11,7 @@ item []:
         name = "phonemes" 
         xmin = 0 
         xmax = 4.479002267573696 
-        intervals: size = 32 
+        intervals: size = 33 
         intervals [1]:
             xmin = 0 
             xmax = 1.037909405654686 
@@ -70,73 +70,77 @@ item []:
             text = "a" 
         intervals [15]:
             xmin = 2.3836086006022343 
+            xmax = 2.44904870630584 
+            text = "" 
+        intervals [16]:
+            xmin = 2.44904870630584 
             xmax = 2.538229023850716 
             text = "tS" 
-        intervals [16]:
+        intervals [17]:
             xmin = 2.538229023850716 
             xmax = 2.6168259985884883 
             text = "a" 
-        intervals [17]:
+        intervals [18]:
             xmin = 2.6168259985884883 
             xmax = 2.7003665590611763 
             text = "" 
-        intervals [18]:
+        intervals [19]:
             xmin = 2.7003665590611763 
             xmax = 2.8047663399852825 
             text = "k" 
-        intervals [19]:
+        intervals [20]:
             xmin = 2.8047663399852825 
             xmax = 2.842691202267624 
             text = "u" 
-        intervals [20]:
+        intervals [21]:
             xmin = 2.842691202267624 
             xmax = 2.901803157238332 
             text = "l" 
-        intervals [21]:
+        intervals [22]:
             xmin = 2.901803157238332 
             xmax = 3.0428828569991966 
             text = "a" 
-        intervals [22]:
+        intervals [23]:
             xmin = 3.0428828569991966 
             xmax = 3.1086949996358095 
             text = "n" 
-        intervals [23]:
+        intervals [24]:
             xmin = 3.1086949996358095 
             xmax = 3.1912377382122266 
             text = "a" 
-        intervals [24]:
+        intervals [25]:
             xmin = 3.1912377382122266 
             xmax = 3.2469314451940186 
             text = "w" 
-        intervals [25]:
+        intervals [26]:
             xmin = 3.2469314451940186 
             xmax = 3.3157820212099773 
             text = "a" 
-        intervals [26]:
+        intervals [27]:
             xmin = 3.3157820212099773 
             xmax = 3.4140125661393945 
             text = "" 
-        intervals [27]:
+        intervals [28]:
             xmin = 3.4140125661393945 
             xmax = 3.479452671843 
             text = "t" 
-        intervals [28]:
+        intervals [29]:
             xmin = 3.479452671843 
             xmax = 3.5914658707698477 
             text = "o" 
-        intervals [29]:
+        intervals [30]:
             xmin = 3.5914658707698477 
             xmax = 3.672221745893446 
             text = "" 
-        intervals [30]:
+        intervals [31]:
             xmin = 3.672221745893446 
             xmax = 3.7251307675261485 
             text = "t" 
-        intervals [31]:
+        intervals [32]:
             xmin = 3.7251307675261485 
             xmax = 3.819810069395195 
             text = "o" 
-        intervals [32]:
+        intervals [33]:
             xmin = 3.819810069395195 
             xmax = 4.479002267573696 
             text = "" 
@@ -145,7 +149,7 @@ item []:
         name = "words" 
         xmin = 0 
         xmax = 4.479002267573696 
-        intervals: size = 8 
+        intervals: size = 9 
         intervals [1]:
             xmin = 0 
             xmax = 1.037909405654686 
@@ -164,17 +168,21 @@ item []:
             text = "anakula" 
         intervals [5]:
             xmin = 2.3836086006022343 
+            xmax = 2.44904870630584 
+            text = "" 
+        intervals [6]:
+            xmin = 2.44904870630584 
             xmax = 3.0428828569991966 
             text = "chakula" 
-        intervals [6]:
+        intervals [7]:
             xmin = 3.0428828569991966 
             xmax = 3.1912377382122266 
             text = "na" 
-        intervals [7]:
+        intervals [8]:
             xmin = 3.1912377382122266 
             xmax = 3.819810069395195 
             text = "watoto" 
-        intervals [8]:
+        intervals [9]:
             xmin = 3.819810069395195 
             xmax = 4.479002267573696 
             text = "" 
