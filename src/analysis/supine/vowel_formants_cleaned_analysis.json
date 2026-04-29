@@ -1,0 +1,102 @@
+[
+    {
+        "vowel": "a",
+        "initial_nb_occurrences": 61,
+        "nb_occurrences_filtered_out": 5,
+        "final_nb_occurrences": 56,
+        "summary": {
+            "f1": {
+                "mean": 592.86,
+                "standard deviation": 60.53
+            },
+            "f2": {
+                "mean": 1418.59,
+                "standard deviation": 170.44
+            },
+            "f3": {
+                "mean": 2247.6,
+                "standard deviation": 223.72
+            }
+        }
+    },
+    {
+        "vowel": "e",
+        "initial_nb_occurrences": 11,
+        "nb_occurrences_filtered_out": 1,
+        "final_nb_occurrences": 10,
+        "summary": {
+            "f1": {
+                "mean": 431.08,
+                "standard deviation": 19.77
+            },
+            "f2": {
+                "mean": 1929.94,
+                "standard deviation": 109.25
+            },
+            "f3": {
+                "mean": 2585.77,
+                "standard deviation": 201.53
+            }
+        }
+    },
+    {
+        "vowel": "i",
+        "initial_nb_occurrences": 22,
+        "nb_occurrences_filtered_out": 4,
+        "final_nb_occurrences": 18,
+        "summary": {
+            "f1": {
+                "mean": 366.63,
+                "standard deviation": 53.88
+            },
+            "f2": {
+                "mean": 2121.39,
+                "standard deviation": 91.02
+            },
+            "f3": {
+                "mean": 2863.45,
+                "standard deviation": 170.11
+            }
+        }
+    },
+    {
+        "vowel": "o",
+        "initial_nb_occurrences": 9,
+        "nb_occurrences_filtered_out": 1,
+        "final_nb_occurrences": 8,
+        "summary": {
+            "f1": {
+                "mean": 419.53,
+                "standard deviation": 27.53
+            },
+            "f2": {
+                "mean": 974.96,
+                "standard deviation": 82.55
+            },
+            "f3": {
+                "mean": 2289.72,
+                "standard deviation": 89.24
+            }
+        }
+    },
+    {
+        "vowel": "u",
+        "initial_nb_occurrences": 15,
+        "nb_occurrences_filtered_out": 3,
+        "final_nb_occurrences": 12,
+        "summary": {
+            "f1": {
+                "mean": 384.8,
+                "standard deviation": 37.57
+            },
+            "f2": {
+                "mean": 1062.87,
+                "standard deviation": 232.84
+            },
+            "f3": {
+                "mean": 2314.59,
+                "standard deviation": 192.42
+            }
+        }
+    }
+]

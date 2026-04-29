@@ -1,0 +1,148 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.0790022675736965 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phonemes" 
+        xmin = 0 
+        xmax = 4.0790022675736965 
+        intervals: size = 24 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.960434264002356 
+            text = "" 
+        intervals [2]:
+            xmin = 0.960434264002356 
+            xmax = 1.064410155097924 
+            text = "a" 
+        intervals [3]:
+            xmin = 1.064410155097924 
+            xmax = 1.2546099558824995 
+            text = "s" 
+        intervals [4]:
+            xmin = 1.2546099558824995 
+            xmax = 1.3636578416656562 
+            text = "a" 
+        intervals [5]:
+            xmin = 1.3636578416656562 
+            xmax = 1.5082096902619337 
+            text = "n" 
+        intervals [6]:
+            xmin = 1.5082096902619337 
+            xmax = 1.5513216451064373 
+            text = "t" 
+        intervals [7]:
+            xmin = 1.5513216451064373 
+            xmax = 1.6096495840137073 
+            text = "e" 
+        intervals [8]:
+            xmin = 1.6096495840137073 
+            xmax = 1.7820974033917225 
+            text = "s" 
+        intervals [9]:
+            xmin = 1.7820974033917225 
+            xmax = 1.9367932413631772 
+            text = "a" 
+        intervals [10]:
+            xmin = 1.9367932413631772 
+            xmax = 2.025553148395979 
+            text = "n" 
+        intervals [11]:
+            xmin = 2.025553148395979 
+            xmax = 2.149817018241902 
+            text = "a" 
+        intervals [12]:
+            xmin = 2.149817018241902 
+            xmax = 2.5081664700845336 
+            text = "" 
+        intervals [13]:
+            xmin = 2.5081664700845336 
+            xmax = 2.556350419616626 
+            text = "t" 
+        intervals [14]:
+            xmin = 2.556350419616626 
+            xmax = 2.6215125241876494 
+            text = "u" 
+        intervals [15]:
+            xmin = 2.6215125241876494 
+            xmax = 2.8041043329408417 
+            text = "s" 
+        intervals [16]:
+            xmin = 2.8041043329408417 
+            xmax = 2.9131522187239987 
+            text = "e" 
+        intervals [17]:
+            xmin = 2.9131522187239987 
+            xmax = 3.011364273906003 
+            text = "m" 
+        intervals [18]:
+            xmin = 3.011364273906003 
+            xmax = 3.095052186251216 
+            text = "e" 
+        intervals [19]:
+            xmin = 3.095052186251216 
+            xmax = 3.219316056097139 
+            text = "" 
+        intervals [20]:
+            xmin = 3.219316056097139 
+            xmax = 3.2814479910201 
+            text = "t" 
+        intervals [21]:
+            xmin = 3.2814479910201 
+            xmax = 3.3790838887561825 
+            text = "e" 
+        intervals [22]:
+            xmin = 3.3790838887561825 
+            xmax = 3.46530779844519 
+            text = "n" 
+        intervals [23]:
+            xmin = 3.46530779844519 
+            xmax = 3.5578717014936836 
+            text = "a" 
+        intervals [24]:
+            xmin = 3.5578717014936836 
+            xmax = 4.0790022675736965 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 4.0790022675736965 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.960434264002356 
+            text = "" 
+        intervals [2]:
+            xmin = 0.960434264002356 
+            xmax = 1.6096495840137073 
+            text = "asante" 
+        intervals [3]:
+            xmin = 1.6096495840137073 
+            xmax = 2.149817018241902 
+            text = "sana" 
+        intervals [4]:
+            xmin = 2.149817018241902 
+            xmax = 2.5081664700845336 
+            text = "" 
+        intervals [5]:
+            xmin = 2.5081664700845336 
+            xmax = 3.093784187579319 
+            text = "tuseme" 
+        intervals [6]:
+            xmin = 3.093784187579319 
+            xmax = 3.220584054769036 
+            text = "" 
+        intervals [7]:
+            xmin = 3.220584054769036 
+            xmax = 3.5616756975093753 
+            text = "tena" 
+        intervals [8]:
+            xmin = 3.5616756975093753 
+            xmax = 4.0790022675736965 
+            text = "" 

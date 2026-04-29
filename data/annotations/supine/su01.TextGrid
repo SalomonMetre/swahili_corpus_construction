@@ -1,0 +1,156 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.879002267573696 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 4.879002267573696 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.009265597194388 
+            text = "" 
+        intervals [2]:
+            xmin = 1.009265597194388 
+            xmax = 1.1518341448504763 
+            text = "h" 
+        intervals [3]:
+            xmin = 1.1518341448504763 
+            xmax = 1.2762024523802553 
+            text = "a" 
+        intervals [4]:
+            xmin = 1.2762024523802553 
+            xmax = 1.476405093769656 
+            text = "m" 
+        intervals [5]:
+            xmin = 1.476405093769656 
+            xmax = 1.518872320731044 
+            text = "dZ" 
+        intervals [6]:
+            xmin = 1.518872320731044 
+            xmax = 1.6811087628947694 
+            text = "a" 
+        intervals [7]:
+            xmin = 1.6811087628947694 
+            xmax = 1.764526530140353 
+            text = "m" 
+        intervals [8]:
+            xmin = 1.764526530140353 
+            xmax = 1.835810803968397 
+            text = "b" 
+        intervals [9]:
+            xmin = 1.835810803968397 
+            xmax = 1.9434955580490594 
+            text = "o" 
+        intervals [10]:
+            xmin = 1.9434955580490594 
+            xmax = 2.5290346800370647 
+            text = "" 
+        intervals [11]:
+            xmin = 2.5290346800370647 
+            xmax = 2.588185460447569 
+            text = "h" 
+        intervals [12]:
+            xmin = 2.588185460447569 
+            xmax = 2.679186661079115 
+            text = "a" 
+        intervals [13]:
+            xmin = 2.679186661079115 
+            xmax = 2.7686711750334685 
+            text = "b" 
+        intervals [14]:
+            xmin = 2.7686711750334685 
+            xmax = 2.9248899027842885 
+            text = "a" 
+        intervals [15]:
+            xmin = 2.9248899027842885 
+            xmax = 3.0280245968333737 
+            text = "r" 
+        intervals [16]:
+            xmin = 3.0280245968333737 
+            xmax = 3.1175091107877266 
+            text = "i" 
+        intervals [17]:
+            xmin = 3.1175091107877266 
+            xmax = 3.1807370540260607 
+            text = "" 
+        intervals [18]:
+            xmin = 3.1807370540260607 
+            xmax = 3.2141041609242937 
+            text = "g" 
+        intervals [19]:
+            xmin = 3.2141041609242937 
+            xmax = 3.3399891551312657 
+            text = "a" 
+        intervals [20]:
+            xmin = 3.3399891551312657 
+            xmax = 3.4173401756680795 
+            text = "n" 
+        intervals [21]:
+            xmin = 3.4173401756680795 
+            xmax = 3.5098580629768175 
+            text = "i" 
+        intervals [22]:
+            xmin = 3.5098580629768175 
+            xmax = 3.656976670664483 
+            text = "s" 
+        intervals [23]:
+            xmin = 3.656976670664483 
+            xmax = 3.7692114847767226 
+            text = "a" 
+        intervals [24]:
+            xmin = 3.7692114847767226 
+            xmax = 3.9405970792994673 
+            text = "s" 
+        intervals [25]:
+            xmin = 3.9405970792994673 
+            xmax = 4.060415326797669 
+            text = "a" 
+        intervals [26]:
+            xmin = 4.060415326797669 
+            xmax = 4.879002267573696 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phonemes" 
+        xmin = 0 
+        xmax = 4.879002267573696 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0092165648985238 
+            text = "" 
+        intervals [2]:
+            xmin = 1.0092165648985238 
+            xmax = 1.9434955580490594 
+            text = "hamjambo" 
+        intervals [3]:
+            xmin = 1.9434955580490594 
+            xmax = 2.530551366714257 
+            text = "" 
+        intervals [4]:
+            xmin = 2.530551366714257 
+            xmax = 3.1175091107877266 
+            text = "habari" 
+        intervals [5]:
+            xmin = 3.1175091107877266 
+            xmax = 3.1807370540260607 
+            text = "" 
+        intervals [6]:
+            xmin = 3.1807370540260607 
+            xmax = 3.5098580629768175 
+            text = "gani" 
+        intervals [7]:
+            xmin = 3.5098580629768175 
+            xmax = 4.060415326797669 
+            text = "sasa" 
+        intervals [8]:
+            xmin = 4.060415326797669 
+            xmax = 4.879002267573696 
+            text = "" 

@@ -1,0 +1,172 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.559002267573696 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phonemes" 
+        xmin = 0 
+        xmax = 4.559002267573696 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2633605061585569 
+            text = "" 
+        intervals [2]:
+            xmin = 1.2633605061585569 
+            xmax = 1.4349535595311667 
+            text = "l" 
+        intervals [3]:
+            xmin = 1.4349535595311667 
+            xmax = 1.5610853808127814 
+            text = "e" 
+        intervals [4]:
+            xmin = 1.5610853808127814 
+            xmax = 1.7552433528979638 
+            text = "o" 
+        intervals [5]:
+            xmin = 1.7552433528979638 
+            xmax = 1.877721680603277 
+            text = "" 
+        intervals [6]:
+            xmin = 1.877721680603277 
+            xmax = 1.9698404264831082 
+            text = "k" 
+        intervals [7]:
+            xmin = 1.9698404264831082 
+            xmax = 2.021679110211937 
+            text = "u" 
+        intervals [8]:
+            xmin = 2.021679110211937 
+            xmax = 2.1152150675668424 
+            text = "n" 
+        intervals [9]:
+            xmin = 2.1152150675668424 
+            xmax = 2.2172542937721937 
+            text = "a" 
+        intervals [10]:
+            xmin = 2.2172542937721937 
+            xmax = 2.310790251127099 
+            text = "" 
+        intervals [11]:
+            xmin = 2.310790251127099 
+            xmax = 2.3822489657297368 
+            text = "dZ" 
+        intervals [12]:
+            xmin = 2.3822489657297368 
+            xmax = 2.4992793773119844 
+            text = "u" 
+        intervals [13]:
+            xmin = 2.4992793773119844 
+            xmax = 2.6260093394425206 
+            text = "a" 
+        intervals [14]:
+            xmin = 2.6260093394425206 
+            xmax = 2.722379719747575 
+            text = "n" 
+        intervals [15]:
+            xmin = 2.722379719747575 
+            xmax = 2.866962088727703 
+            text = "a" 
+        intervals [16]:
+            xmin = 2.866962088727703 
+            xmax = 2.9264581721582776 
+            text = "u" 
+        intervals [17]:
+            xmin = 2.9264581721582776 
+            xmax = 3.0426695131143724 
+            text = "" 
+        intervals [18]:
+            xmin = 3.0426695131143724 
+            xmax = 3.075265377041082 
+            text = "p" 
+        intervals [19]:
+            xmin = 3.075265377041082 
+            xmax = 3.154564571162479 
+            text = "e" 
+        intervals [20]:
+            xmin = 3.154564571162479 
+            xmax = 3.270860523873196 
+            text = "" 
+        intervals [21]:
+            xmin = 3.270860523873196 
+            xmax = 3.313292256370803 
+            text = "p" 
+        intervals [22]:
+            xmin = 3.313292256370803 
+            xmax = 3.405502449255947 
+            text = "o" 
+        intervals [23]:
+            xmin = 3.405502449255947 
+            xmax = 3.484774844854796 
+            text = "h" 
+        intervals [24]:
+            xmin = 3.484774844854796 
+            xmax = 3.593900128435519 
+            text = "a" 
+        intervals [25]:
+            xmin = 3.593900128435519 
+            xmax = 3.701608200541168 
+            text = "" 
+        intervals [26]:
+            xmin = 3.701608200541168 
+            xmax = 3.7257854073720544 
+            text = "p" 
+        intervals [27]:
+            xmin = 3.7257854073720544 
+            xmax = 3.8065664614512906 
+            text = "a" 
+        intervals [28]:
+            xmin = 3.8065664614512906 
+            xmax = 4.559002267573696 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 4.559002267573696 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2633605061585569 
+            text = "" 
+        intervals [2]:
+            xmin = 1.2633605061585569 
+            xmax = 1.7552433528979638 
+            text = "leo" 
+        intervals [3]:
+            xmin = 1.7552433528979638 
+            xmax = 1.877721680603277 
+            text = "" 
+        intervals [4]:
+            xmin = 1.877721680603277 
+            xmax = 2.2172542937721937 
+            text = "kuna" 
+        intervals [5]:
+            xmin = 2.2172542937721937 
+            xmax = 2.310790251127099 
+            text = "" 
+        intervals [6]:
+            xmin = 2.310790251127099 
+            xmax = 2.6260093394425206 
+            text = "jua" 
+        intervals [7]:
+            xmin = 2.6260093394425206 
+            xmax = 2.866962088727703 
+            text = "na" 
+        intervals [8]:
+            xmin = 2.866962088727703 
+            xmax = 3.405502449255947 
+            text = "upepo" 
+        intervals [9]:
+            xmin = 3.405502449255947 
+            xmax = 3.8065664614512906 
+            text = "hapa" 
+        intervals [10]:
+            xmin = 3.8065664614512906 
+            xmax = 4.559002267573696 
+            text = "" 

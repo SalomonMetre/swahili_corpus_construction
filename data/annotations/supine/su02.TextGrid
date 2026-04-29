@@ -1,0 +1,124 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.8390022675736963 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phonemes" 
+        xmin = 0 
+        xmax = 3.8390022675736963 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.7192902718806633 
+            text = "" 
+        intervals [2]:
+            xmin = 1.7192902718806633 
+            xmax = 1.778959885396093 
+            text = "dZ" 
+        intervals [3]:
+            xmin = 1.778959885396093 
+            xmax = 1.8732378747504719 
+            text = "i" 
+        intervals [4]:
+            xmin = 1.8732378747504719 
+            xmax = 1.9782563945376281 
+            text = "n" 
+        intervals [5]:
+            xmin = 1.9782563945376281 
+            xmax = 2.1058949288669893 
+            text = "a" 
+        intervals [6]:
+            xmin = 2.1058949288669893 
+            xmax = 2.206139879572911 
+            text = "l" 
+        intervals [7]:
+            xmin = 2.206139879572911 
+            xmax = 2.3457667751990163 
+            text = "a" 
+        intervals [8]:
+            xmin = 2.3457667751990163 
+            xmax = 2.487780455365739 
+            text = "n" 
+        intervals [9]:
+            xmin = 2.487780455365739 
+            xmax = 2.5379029307187 
+            text = "g" 
+        intervals [10]:
+            xmin = 2.5379029307187 
+            xmax = 2.6369544891543133 
+            text = "u" 
+        intervals [11]:
+            xmin = 2.6369544891543133 
+            xmax = 2.7586805007257897 
+            text = "n" 
+        intervals [12]:
+            xmin = 2.7586805007257897 
+            xmax = 2.847626805517095 
+            text = "i" 
+        intervals [13]:
+            xmin = 2.847626805517095 
+            xmax = 3.005154585197829 
+            text = "s" 
+        intervals [14]:
+            xmin = 3.005154585197829 
+            xmax = 3.117333458606837 
+            text = "a" 
+        intervals [15]:
+            xmin = 3.117333458606837 
+            xmax = 3.200870917528438 
+            text = "l" 
+        intervals [16]:
+            xmin = 3.200870917528438 
+            xmax = 3.278441415098497 
+            text = "o" 
+        intervals [17]:
+            xmin = 3.278441415098497 
+            xmax = 3.3607854817497897 
+            text = "m" 
+        intervals [18]:
+            xmin = 3.3607854817497897 
+            xmax = 3.45387007883386 
+            text = "o" 
+        intervals [19]:
+            xmin = 3.45387007883386 
+            xmax = 3.5795097817861015 
+            text = "n" 
+        intervals [20]:
+            xmin = 3.5795097817861015 
+            xmax = 3.8390022675736963 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.8390022675736963 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.7192902718806633 
+            text = "" 
+        intervals [2]:
+            xmin = 1.7192902718806633 
+            xmax = 2.1047015365966804 
+            text = "jina" 
+        intervals [3]:
+            xmin = 2.1047015365966804 
+            xmax = 2.635761096884005 
+            text = "langu" 
+        intervals [4]:
+            xmin = 2.635761096884005 
+            xmax = 2.8464334132467863 
+            text = "ni" 
+        intervals [5]:
+            xmin = 2.8464334132467863 
+            xmax = 3.5795097817861015 
+            text = "Salomon" 
+        intervals [6]:
+            xmin = 3.5795097817861015 
+            xmax = 3.8390022675736963 
+            text = "" 
